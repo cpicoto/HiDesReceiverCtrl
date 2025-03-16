@@ -1,27 +1,37 @@
-Privacy Policy for HiDesReceiver
+Privacy Policy for HiDesReceiver 
 
-At AD7NP, we prioritize your privacy. This policy outlines how HiDesReceiver handles user data.
+Last Updated: [3/16/2025]
 
-Data Collection
+1. Introduction
+AD7NP (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services, including our YouTube channels and branded applications. By accessing our services, you agree to the collection and use of information in accordance with this policy.
 
-Our application does not collect, store, or share personal information unless explicitly required for functionality.
+2. Information We Collect
 
-Any data collected (e.g., preferences or usage data) is stored locally on your device and is not transmitted to external servers.
+Personal Information: We may collect personal information such as your name, email address, and any other data you voluntarily provide when interacting with our services.
+Usage Data: We collect information on how you access and use our services (for example, device type, browser, IP address, and activity logs).
+3. How We Use Your Information
+We use the collected information to:
 
-Third-Party Services
+Provide, maintain, and improve our services.
+Personalize your experience and respond to your requests.
+Analyze trends and usage to enhance our offerings.
+Comply with legal obligations and protect our rights.
+4. Sharing Your Information
+We do not sell or rent your personal information to third parties. We may share information with:
 
-If our application uses third-party services, their privacy policies apply. Please review them as needed.
+Service providers who assist us in delivering our services.
+Law enforcement or government agencies as required by law.
+Business partners if necessary to provide the service and with your consent.
+5. Data Security
+We implement reasonable security measures to protect your personal information. However, no method of transmission over the Internet or electronic storage is 100% secure.
 
-Cookies
+6. Your Rights and Choices
+Depending on your jurisdiction, you may have rights regarding your personal data, including access, correction, or deletion. Please contact us at [Contact Email] for any inquiries.
 
-YouTube may use cookies to enhance your browsing experience. No personally identifiable information is collected.
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page, with an updated “Last Updated” date.
 
-Security
-
-We take reasonable steps to ensure the security of your data. However, we advise users to practice caution when sharing sensitive information online.
-
-Policy Updates
-
-This policy may be updated periodically. We encourage you to review it regularly. Changes will be effective immediately upon posting on this page.
-
-For questions or concerns, please contact us at cpicoto@gmail.com.
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+AD7NP
+cpicoto@gmail.com
